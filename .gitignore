@@ -1,0 +1,12 @@
+# Maven build output
+/target/
+
+# Runtime serialized data
+/data/
+
+# NetBeans / IDE files
+/nbproject/private/
+/build/
+/dist/
+*.class
+.DS_Store
